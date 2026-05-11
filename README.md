@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋 I'm Nandika
 
-<!--
-**NandikaS/NandikaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Artificial Intelligence and Data Science Student
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Git & GitHub
+- Frontend Development
+- AI Tools
+- Prompt Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- AI Based Projects
+
+📚 Goals:
+- Build strong resume
+- Get internships
+- Become skilled AI Engineer
